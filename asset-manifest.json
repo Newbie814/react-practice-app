@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-practice-app/static/css/main.550a2d12.css",
+    "main.js": "/react-practice-app/static/js/main.f7d216ea.js",
+    "static/js/787.44fd7801.chunk.js": "/react-practice-app/static/js/787.44fd7801.chunk.js",
+    "static/media/SEGA.woff": "/react-practice-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/react-practice-app/index.html",
+    "main.550a2d12.css.map": "/react-practice-app/static/css/main.550a2d12.css.map",
+    "main.f7d216ea.js.map": "/react-practice-app/static/js/main.f7d216ea.js.map",
+    "787.44fd7801.chunk.js.map": "/react-practice-app/static/js/787.44fd7801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550a2d12.css",
+    "static/js/main.f7d216ea.js"
+  ]
+}
